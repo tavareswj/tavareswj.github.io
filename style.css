@@ -33,4 +33,11 @@ div {
 
 .contact {
     background: #c8e6c9;
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201); #f8feff
+    display: block;
+    margin: auto;
 }
